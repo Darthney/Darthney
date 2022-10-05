@@ -1,0 +1,5 @@
+- 👋 Oi,eu sou o @Darthney
+- 👀 Estou interessando em discutir tecnologia, educação, ensino e aprendizagem.
+- 🌱 Atualmente estou estudando Pensamento Computacional.
+- 💞️ Estou procurando por colaboradores com conhecimento em Pensamento Computacional.
+- 📫 Para me encontrar você pode utilizar este e-mail silvaney.oliveira@escola.pr.gov.br.
